@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.service.center;
 
 public class Greeting {
 

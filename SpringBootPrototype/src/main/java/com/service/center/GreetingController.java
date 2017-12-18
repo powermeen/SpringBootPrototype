@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.service.center;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,7 +32,7 @@ public class GreetingController {
     	test.add("13");
     	test.add("14");
     	test.add("15");
-    	gson.
-        return JSONObject.quote("Hello World");
+		return null;
+    	
     }
 }

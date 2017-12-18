@@ -1,7 +1,13 @@
-h1{
-	color:#0000FF;
+h1 {
+	color: #0000FF;
 }
 
-h2{
-	color:#FF0000;
+h2 {
+	color: #FF0000;
+}
+
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
 }
